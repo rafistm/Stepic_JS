@@ -1,0 +1,1 @@
+//console.log("Мы находимся по адресу" + window.location);
