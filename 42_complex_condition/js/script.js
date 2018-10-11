@@ -1,4 +1,4 @@
-console.log("Мы находимся по адресу" + window.location);
+//console.log("Мы находимся по адресу" + window.location);
 
 const rock = 0;
 const scissors = 1;
